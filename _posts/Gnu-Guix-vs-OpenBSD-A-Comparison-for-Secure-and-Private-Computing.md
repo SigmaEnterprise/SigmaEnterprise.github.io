@@ -48,7 +48,7 @@ Ultimately, the choice between Gnu Guix and OpenBSD will depend on your individu
 
 Regardless of which system you choose, both Gnu Guix and OpenBSD are excellent choices for users who value security and privacy in their computing environment.
 
-![](C:\Users\Sero\Documents\ShareX\Screenshots\2023-05\chrome_4nnuzGPrIL.png)
+![A Comparison for Secure and Private Computing](/assets/Images/bsdguix.png)
 
 
 
