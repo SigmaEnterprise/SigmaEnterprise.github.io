@@ -33,8 +33,8 @@ Here are five open-source software programs that we recommend using with Debian 
 
 1. [LibreOffice](https://www.libreoffice.org/) - A powerful office suite that includes word processing, spreadsheet, and presentation software.
 2. [GIMP](https://www.gimp.org/) - A free and open-source image editing program that can be used for photo retouching, image composition, and more.
-3. [Firefox ](Download Firefox for Desktop — Mozilla (UK)](https://www.mozilla.org/en-GB/firefox/new/?redirect_source=firefox-com)- A fast and secure web browser that supports a wide range of add-ons and extensions.
-4. [VLC Media Player][Official download of VLC media player, the best Open Source player - VideoLAN](https://www.videolan.org/vlc/) - A versatile media player that can play almost any type of media file.
+3. [Firefox ](https://www.mozilla.org/en-GB/firefox/new/?redirect_source=firefox-com)- A fast and secure web browser that supports a wide range of add-ons and extensions.
+4. [VLC Media Player](https://www.videolan.org/vlc/) - A versatile media player that can play almost any type of media file.
 5. [Audacity](https://www.audacityteam.org/) - A free and open-source audio editing program that can be used for recording, editing, and mixing audio.
 
 ## Conclusion
