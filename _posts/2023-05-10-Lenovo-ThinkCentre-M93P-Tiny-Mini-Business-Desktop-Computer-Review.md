@@ -1,5 +1,3 @@
-
-
 # Lenovo ThinkCentre M93P Tiny Mini Business Desktop Computer Review
 
 The Lenovo ThinkCentre M93P Tiny Mini Business Desktop Computer is a powerful and compact PC that offers excellent performance and reliability. This computer is perfect for small businesses, home offices, and anyone who needs a reliable and fast computer for work or personal use.
@@ -7,12 +5,19 @@ The Lenovo ThinkCentre M93P Tiny Mini Business Desktop Computer is a powerful an
 ## Specifications
 
 - Processor: Intel Dual-Core i5-4570T Processor up to 3.60 GHz
+
 - RAM: 8GB DDR3L SDRAM
+
 - Hard Drive: 240GB Solid State Hard Drive
+
 - Graphics: Integrated Intel® HD Graphics
+
 - Chipset Brand: Intel
+
 - Card Description: Integrated
+
 - Graphics Card Ram Size: 2 MB
+
 - Operating System: Windows 10 Pro
   
   ![](https://ipfs.filebase.io/ipfs/Qmcifgfk6Rbjf41wZpiYw6AdhxZ1WxHufHKAtBL4pa1wPB)
