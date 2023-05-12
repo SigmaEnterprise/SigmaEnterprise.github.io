@@ -1,5 +1,3 @@
-
-
 # myNodeBTC.com - Your One-Stop Bitcoin and Lightning Node Solution
 
 ![](https://ipfs.filebase.io/ipfs/QmZ36njb6GDjzPxzrPMQBxXL1vBAmwBBuaUNgeMkbvvohv)
