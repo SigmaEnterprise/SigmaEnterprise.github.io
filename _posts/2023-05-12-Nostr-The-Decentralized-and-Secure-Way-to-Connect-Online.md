@@ -17,9 +17,6 @@ It is crucial to save your private key as it is the only way to recover and re-l
 
 In summary, Nostr provides a decentralized and secure way to connect online without the need for personal data. By using a set of two keys - a public key and a private key - you can create an account and access it on any platform that uses Nostr. Just remember to keep your private key safe and secure, and you'll be ready to connect with others in a decentralized and private way.
 
-
-
-
 # Nostr: Events and Relays
 
 Here's what an event looks like:
@@ -33,8 +30,6 @@ Here's what an event looks like:
 "content": "good morning!",
 "sig": "e1dc...5f1"
 }`
-
-
 
 Nostr is a decentralized protocol that revolves around events. An event is a small text-only structure that clients send to relays. The only object type in Nostr is the event, and it consists of several fields:
 
@@ -50,8 +45,6 @@ Relays are the main piece of the Nostr protocol. They store the events received 
 
 Setting up a relay is cheap and easy, and relays can run on low-end devices like smartphones. The fact that relays don't talk to each other makes it harder for censors to take down the entire network. There are currently [over 100 relays](https://nostr.watch/) spread around the globe, and the network is growing. Nostr has the potential to help fight censorship by allowing users to create portals anywhere they want and escape from censorship.
 
-
-
 #### 📜 E2EE Text sharing
 
 [Sendstr](https://sendstr.com/) is an online tool where you can share end to end encrypted text data between two devices through the **nostr** protocol.
@@ -59,7 +52,6 @@ Setting up a relay is cheap and easy, and relays can run on low-end devices like
 #### 📝 Blogs
 
 [Blogstack](https://blogstack.io/) - Write decentralized blogs over relay using nostr w/ ⚡ lightning tips
-
 
 Here you have some awesome resources to get started:
 
