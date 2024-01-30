@@ -15,15 +15,6 @@ permissions:
   contents: read
   pages: write
   id-token: write
-steps:
-  - uses: actions/checkout@https://github.com/SigmaEnterprise/SigmaEnterprise.github.io/commit/7b4c13b68608948b901ce8a725865a6a21dec333
-  - uses: actions/checkout@v4
-  - uses: actions/checkout@v4.2.0
-  - uses: actions/checkout@https://github.com/SigmaEnterprise/SigmaEnterprise.github.io/tree/main
-
-
-
-
 
 # Allow one concurrent deployment
 concurrency:
