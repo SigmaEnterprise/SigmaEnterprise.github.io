@@ -39,11 +39,6 @@ jobs:
         id: pages
         uses: actions/configure-pages@v3
       
-      - name: Node.js v20
-       run:
-       using: 'node20'
-        main: 'main.js'
-
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
