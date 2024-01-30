@@ -38,6 +38,11 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v3
+      
+      - name: Node.js v20
+       runs:
+       using: 'node20'
+        main: 'main.js'
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
@@ -70,6 +75,4 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v1
 
-runs:
-  using: 'node20'
-  main: 'main.js'
+
