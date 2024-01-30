@@ -68,3 +68,13 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v3
+
+steps:
+  # Reference a specific commit
+  - uses: actions/checkout@https://github.com/SigmaEnterprise/SigmaEnterprise.github.io/commit/7b4c13b68608948b901ce8a725865a6a21dec333
+  # Reference the major version of a release
+  - uses: actions/checkout@v4
+  # Reference a specific version
+  - uses: actions/checkout@v4.2.0
+  # Reference a branch
+  - uses: actions/checkout@https://github.com/SigmaEnterprise/SigmaEnterprise.github.io/tree/main
