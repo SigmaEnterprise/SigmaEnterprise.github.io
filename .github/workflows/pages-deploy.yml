@@ -38,7 +38,7 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v3
-      
+
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
@@ -53,7 +53,6 @@ jobs:
       - name: Test site
         run: |
           bundle exec htmlproofer _site --disable-external --check-html --allow_hash_href
-
       - name: Upload site artifact
         uses: actions/upload-pages-artifact@v1
         with:
@@ -68,14 +67,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/checkout@v4
-
-steps:
-  # Reference a specific commit
-  - uses: actions/checkout@8f4b7f84864484a7bf31766abe9204da3cbe65b3
-  # Reference the major version of a release
-  - uses: actions/checkout@v4
-  # Reference a specific version
-  - uses: actions/checkout@v4.2.0
-  # Reference a branch
-  - uses: actions/checkout@main
+        uses: actions/deploy-pages@v1
