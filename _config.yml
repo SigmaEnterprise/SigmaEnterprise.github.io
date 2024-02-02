@@ -23,7 +23,7 @@ title: Power Redistribution Beyond Consumption # the main title
 tagline: Watts To Wealth Understanding the Economic Impacts of Bitcoin's Energy Dynamics # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-    Build Taproot
+    A hub for education, training, and strategic guidance in the realm of Bitcoin, blockchain technology, and the broader Bearer asset transmission ecosystem.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://SigmaEnterperise.github.io"
@@ -70,7 +70,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: dark
+#theme_mode: dark
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
