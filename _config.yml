@@ -80,7 +80,7 @@ google_analytics:
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://nostr.build/i/nostr.build_47f941fd9c9da0efa2d335e53beb532380eb45f66c2e2dea6a600c4c688ad631.gif
+avatar: https://image.nostr.build/509bf038c69a9638bd3c2fe5e4b8831bf12aa50dbb438ab5d76fe7ccabedf734.gif
 
 # boolean type, the global switch for TOC in posts.
 toc: true
