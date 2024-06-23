@@ -34,11 +34,11 @@ By integrating the privacy features of Chaumian Ecash with the security and dece
 
 Some might argue that integrating Chaumian Ecash with Bitcoin introduces complexity, making the system harder to use. However, advancements in user interface design and educational resources can mitigate this issue. 
 
-**Nutstash** [Nutstash](https://nutstash.app/)  is a Cashu web wallet with many features such as multimint support and support for sending and receiving tokens via nostr. Nutstash is written in TypeScript and uses the [cashu-ts](https://github.com/cashubtc/cashu-ts) library.
+1. **Nutstash** [Nutstash](https://nutstash.app/)  is a Cashu web wallet with many features such as multimint support and support for sending and receiving tokens via nostr. Nutstash is written in TypeScript and uses the [cashu-ts](https://github.com/cashubtc/cashu-ts) library.
 
-**eNuts** [eNuts](https://enuts.cash/)  is a Cashu wallet for Android and IOS. It empowers you with a user-friendly interface that streamlines every step of your Ecash journey
+2. **eNuts** [eNuts](https://enuts.cash/)  is a Cashu wallet for Android and IOS. It empowers you with a user-friendly interface that streamlines every step of your Ecash journey
 
-**Macadmia** [Macadamimia](https://docs.cashu.space/github.com/zeugmaster/macadamia) is a Cashu wallet for iOS written in Swift.
+3. **Macadmia** [Macadamimia](https://docs.cashu.space/github.com/zeugmaster/macadamia) is a Cashu wallet for iOS written in Swift.
 
 [The Cashu Protocol Docs](https://docs.cashu.space/protocol)
 
