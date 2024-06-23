@@ -1,8 +1,8 @@
-### Ecash Federatons
+# Ecash Federatons
 
 #### The Chance to run a Ecash Mint
 
-Right now ,The country of the indivdual and banking have become self-sovereign movements, Bitcoin has emerged as the most recognized and widely adopted Freedom Technology, known for its P4P with P2P incentives nature and code profile. On the other hand, Chaumian Ecash, a lesser-known but pioneering digital promisory form of Bitcoin, offers unparalleled privacy features and a evolving anonymity set. This short doc argues that the integration of Chaumian Ecash’s privacy mechanisms with Bitcoin’s robust and P4P infrastructure can create a superior digital currency system. This integration, exemplified by running a mint on a Lightning Network node to mitigate the risk of centraliztion and foster a community of federated nodes, leverages the strengths of both systems to address the shortcomings inherent in each. 
+Right now ,The country of the individual and banking have become self-sovereign movements, Bitcoin has emerged as the most recognized and widely adopted Freedom Technology, known for its P4P with P2P incentives nature and code profile. On the other hand, Chaumian Ecash, a lesser-known but pioneering digital promisory form of Bitcoin, offers unparalleled privacy features and a evolving anonymity set. This short doc argues that the integration of Chaumian Ecash’s privacy mechanisms with Bitcoin’s robust and P4P infrastructure can create a superior digital currency system. This integration, exemplified by running a mint on a Lightning Network node to mitigate the risk of centraliztion and foster a community of federated nodes, leverages the strengths of both systems to address the shortcomings inherent in each. 
 
 #### A look at the the Two Technologies
 
