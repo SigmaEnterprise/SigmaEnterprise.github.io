@@ -126,6 +126,7 @@ The evolution of Bitcoin frameworks continues to push the boundaries of what is 
 For those interested in delving deeper into the frameworks discussed in this article, here are some recommended resources:
 
 1. **Mimblewimble**:
+   - [Mimblewimble: What is it? How It Works?](https://cointelegraph.com/news/what-is-mimblewimble-and-how-does-it-work)
    - [Grin](https://grin.mw/)
    - [Beam](https://beam.mw/)
 
