@@ -1,8 +1,8 @@
-# Ecash Federatons
+### Ecash Federatons
 
 #### The Chance to run a Ecash Mint
 
-Right now ,The country of the individual and banking have become self-sovereign movements, Bitcoin has emerged as the most recognized and widely adopted Freedom Technology, known for its P4P with P2P incentives nature and code profile. On the other hand, Chaumian Ecash, a lesser-known but pioneering digital promisory form of Bitcoin, offers unparalleled privacy features and a evolving anonymity set. This short doc argues that the integration of Chaumian Ecash’s privacy mechanisms with Bitcoin’s robust and P4P infrastructure can create a superior digital currency system. This integration, exemplified by running a mint on a Lightning Network node to mitigate the risk of centraliztion and foster a community of federated nodes, leverages the strengths of both systems to address the shortcomings inherent in each. 
+Right now ,The country of the indivdual and banking have become self-sovereign movements, Bitcoin has emerged as the most recognized and widely adopted Freedom Technology, known for its P4P with P2P incentives nature and code profile. On the other hand, Chaumian Ecash, a lesser-known but pioneering digital promisory form of Bitcoin, offers unparalleled privacy features and a evolving anonymity set. This short doc argues that the integration of Chaumian Ecash's privacy mechanisms with Bitcoin's robust and P4P infrastructure can create a superior digital currency system. This integration, exemplified by running a mint on a Lightning Network node to mitigate the risk of centraliztion and foster a community of federated nodes, leverages the strengths of both systems to address the shortcomings inherent in each. 
 
 #### A look at the the Two Technologies
 
@@ -38,14 +38,13 @@ Some might argue that integrating Chaumian Ecash with Bitcoin introduces complex
 
 2. **eNuts** [eNuts](https://enuts.cash/)  is a Cashu wallet for Android and IOS. It empowers you with a user-friendly interface that streamlines every step of your Ecash journey
 
-3. **Macadmia** [Macadamimia](https://docs.cashu.space/github.com/zeugmaster/macadamia) is a Cashu wallet for iOS written in Swift.
+3. **Macadamia** [Macadamia](https://docs.cashu.space/github.com/zeugmaster/macadamia) is a Cashu wallet for iOS written in Swift.
 
 [The Cashu Protocol Docs](https://docs.cashu.space/protocol)
 
-By decentralizing the minting process and distributing minting nodes across the network, we can maintain the system’s decentralized ethos. Additionally, employing federated minting structures can distribute trust among multiple parties, reducing the risk of centralization.
+By decentralizing the minting process and distributing minting nodes across the network, we can maintain the system's decentralized ethos. Additionally, employing federated minting structures can distribute trust among multiple parties, reducing the risk of centralization.
 
-[What are Cahu Mints](https://thebitcoinmanual.com/articles/what-are-cashu-mints/)
-[Federated Mints](https://cashumints.space/)
+[What are Cahu Mints](https://thebitcoinmanual.com/articles/what-are-cashu-mints/) and [Federated Mints](https://cashumints.space/)
 
 #### Case to consider
 
@@ -55,5 +54,9 @@ For further reading and detailed technical insights, you can visit
 - [Bitcoin.org](https://bitcoin.org/) 
 - [Cashu.space](https://cashu.space/).
 
-To run a launch a Mint on LNsats for 21 sats per hour visit [LNbits as a service](https://lnbits.com/)
+To run a Mint on LNbits for 21 sats per hour visit [LNbits as a service](https://lnbits.com/)
+
+
+
+
 
