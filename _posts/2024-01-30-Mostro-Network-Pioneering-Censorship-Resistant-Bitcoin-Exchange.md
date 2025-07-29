@@ -1,4 +1,4 @@
-![](D:\Uploadtocloud\mostro-logo.png)🚀 Explore the Mostro Messaging Protocol: Unveiling a Seamless Trading Experience! 🌐
+Explore the Mostro Messaging Protocol: Unveiling a Seamless Trading Experience! 🌐
 
 Discover the intricacies of the Mostro messaging protocol through a series of simple yet powerful steps! From creating new orders to facilitating lightning-fast transactions with lightning addresses, Mostro ensures a streamlined and secure trading environment. Learn how to initiate and navigate disputes, empowering users to address issues effectively.
 
@@ -22,7 +22,7 @@ While this guide provides a glimpse into the Mostro messaging protocol, the full
 
 # Mostro Network: Pioneering Censorship-Resistant Bitcoin Exchange
 
-[![Mostro](https://image.nostr.build/9ea8d363ceca67aaf273c2118ea5e4ebd659793c5755456b6453433b1e276662.gif "Mostro")](http://https://image.nostr.build/9ea8d363ceca67aaf273c2118ea5e4ebd659793c5755456b6453433b1e276662.gif "Mostro")
+
 Mostro Network, an avant-garde project initiated on November 6, 2023, unfolds a revolutionary approach to facilitate Bitcoin transactions through the Lightning Network. The project addresses the growing demand for conducting Bitcoin transactions without compromising personal data, introducing a groundbreaking solution for peer-to-peer exchanges.
 
 ## Project Genesis: @lnp2pBot on Telegram
@@ -88,18 +88,10 @@ The detailed specifications and communication protocols can be found in the Most
 
 Mostro Network is in its early stages, and Rust developers are invited to contribute to this groundbreaking project. The journey has just begun, and early participants have the opportunity to shape the future of decentralized, censorship-resistant Bitcoin exchanges. Happy hacking!
 
-## Conclusion: A New Frontier in Bitcoin Exchange
+## A New Frontier in Bitcoin Exchange
 
 Mostro Network, hosted on the resilient platform of Nostr, emerges as a beacon of innovation in the realm of decentralized Bitcoin exchanges. With a focus on security, reliability, and censorship resistance, Mostro sets the stage for a new era in peer-to-peer transactions, empowering users globally to engage in Bitcoin transactions without compromising on privacy or succumbing to external pressures. As the project evolves, the Mostro Network promises to be a transformative force in the world of cryptocurrency.
 
-[Learn more About Lnp2pbot Here](https://lnp2pbot.com/learn)
-[Telegram Mostr_Dev](https://t.me/mostro_dev)
-
-# Mostro Client Specifications: A User-Friendly Guide
-
-## Overview
-
-Mostro, the innovative peer-to-peer exchange platform, operates through Parameterized Replaceable Events, utilizing event kind 38383. This ensures a standardized communication protocol for seamless interactions. To better understand the communication process, let's delve into the details of Mostro's client specifications.
 
 ## Communication with Mostro
 
@@ -468,6 +460,9 @@ Mostro broadcasts a new nip 33 dispute event to update the dispute status to "In
 }
 ```
 
-# Conclusion
-
+# Consider
 In conclusion, the process of initiating a dispute on Mostro involves a series of simple steps outlined in this guide. Users can follow these steps to address issues with orders effectively. However, for a comprehensive understanding and detailed information, it is highly recommended to visit the official documentation at [Mostro Messages Overview](https://mostro.network/messages/overview.html). The documentation provides in-depth insights, additional details, and ensures a complete understanding of the Mostro dispute resolution system. Happy trading on Mostro!
+
+
+
+
