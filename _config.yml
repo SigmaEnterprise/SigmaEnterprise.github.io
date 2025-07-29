@@ -13,7 +13,7 @@ baseurl: ""
 lang: en
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: UTC -4
+timezone: "America/Port_of_Spain"
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
@@ -38,7 +38,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: freedomscript@vlt.ge
-  email: ceronode@tuta.io 
+  email: ceronode@tuta.io
   links:
     # The first element serves as the copyright owner's link
     - https://x.com/mx33_studio # change to your twitter homepage

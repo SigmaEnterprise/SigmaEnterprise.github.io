@@ -50,7 +50,7 @@ History provides numerous examples of the failures of centralized economic plann
 
 2. **Maoist China:**
    - During the Great Leap Forward, Mao Zedong's attempts at rapid industrialization and agricultural collectivization led to one of the deadliest famines in history.
-   - [*Visual: Historical photograph depicting the effects of the Great Leap Forward.*](https://image.nostr.build/ce8b682b8638419977e68acccd27fccff055d695ebe4d9b15c15cf6903e46d00.jpg)
+   - [Visual: Historical photograph depicting the effects of the Great Leap Forward](https://image.nostr.build/ce8b682b8638419977e68acccd27fccff055d695ebe4d9b15c15cf6903e46d00.jpg)
 
 #### **The Case for Decentralized Economies**
 
