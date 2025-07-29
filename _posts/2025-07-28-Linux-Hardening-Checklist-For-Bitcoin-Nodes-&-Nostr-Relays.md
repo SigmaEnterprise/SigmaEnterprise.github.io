@@ -441,6 +441,7 @@ cut -d: -f1 /etc/passwd  # list users
 
 ## **6. Visual Diagram**
 
+```
 **Host OS (Hardened Linux)**
 ├── **Firewall (UFW)** + Fail2Ban
 ├── **Tor** (Onion-only routing for Bitcoin & Lightning)
@@ -450,7 +451,8 @@ cut -d: -f1 /etc/passwd  # list users
 │      └── Lightning Node (Tor-only)
 └── **Cron Jobs** (Daily checks + email alerts)
 
-*(Can produce a clean infographic if you want)*
+```
+
 
 ---
 
