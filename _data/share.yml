@@ -3,13 +3,8 @@
 
 platforms:
   - type: Twitter
-<<<<<<< HEAD
-    icon: "fab fa-twitter"
-    link: "https://x.com/mx33_studio"
-=======
     icon: "fa-brands fa-square-x-twitter"
     link: "https://twitter.com/intent/tweet?text=TITLE&url=URL"
->>>>>>> v7.3.1
 
   - type: Facebook
     icon: "fab fa-facebook-square"
@@ -23,13 +18,6 @@ platforms:
   #
   # - type: Linkedin
   #   icon: "fab fa-linkedin"
-<<<<<<< HEAD
-  #   link: "https://www.linkedin.com/sharing/share-offsite/?url=URL"
-  #
-  # - type: Weibo
-  #   icon: "fab fa-weibo"
-  #   link: "http://service.weibo.com/share/share.php?title=TITLE&url=URL"
-=======
   #   link: "https://www.linkedin.com/feed/?shareActive=true&shareUrl=URL"
   #
   # - type: Weibo
@@ -60,4 +48,3 @@ platforms:
   # - type: Threads
   #   icon: "fa-brands fa-square-threads"
   #   link: "https://www.threads.net/intent/post?text=TITLE%20URL"
->>>>>>> v7.3.1
