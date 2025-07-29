@@ -1,5 +1,3 @@
-# **Linux Hardening Checklist for Bitcoin Nodes & Self-Custody Apps**
-
 Running a Bitcoin node or self-custody apps requires a **secure Linux server environment**. This guide provides a step-by-step hardening process using malware scanners, intrusion detection, SSH hardening, and proactive monitoring. Each section includes commands, explanations, and diagrams to visualize the flow.
 
 ---
@@ -470,7 +468,3 @@ cut -d: -f1 /etc/passwd  # list users
 * Deploy **Electrum Server (electrs or Fulcrum)** inside its own container
 * Connect your **Lightning Node (LND, CoreLN, or Eclair)** to the Bitcoin Core container
 * Expand with **Fedimint or Cashu mint** for federated custody
-
----
-
-👉
