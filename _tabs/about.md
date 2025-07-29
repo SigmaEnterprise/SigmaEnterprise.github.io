@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 
 icon: fas fa-info-circle
 order: 4
@@ -50,3 +51,12 @@ In addition to our expertise in the blockchain realm, we offer telecall-based tu
 - Interactive Learning Experience
 
 Join us at Sigma for an enriching journey where education, strategic guidance, and Linux tutoring converge to prepare you for success in the ever-evolving landscape of technology and digital assets.
+=======
+# the default layout is 'page'
+icon: fas fa-info-circle
+order: 4
+---
+
+> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+{: .prompt-tip }
+>>>>>>> v7.3.1
