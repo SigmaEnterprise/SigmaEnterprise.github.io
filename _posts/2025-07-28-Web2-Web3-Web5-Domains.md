@@ -1,6 +1,3 @@
-
-
-
 # **Web2, Web3 & Web5 Domains Explained: How to Build a Future-Proof Digital Identity**
 
 The Internet is changing fast, and so is the way we own and manage domain names. Traditional Web2 domains like `.com` and `.org` are still essential, but **Web3 and Web5 domains** are redefining what it means to have a truly secure, censorship-resistant digital presence.
