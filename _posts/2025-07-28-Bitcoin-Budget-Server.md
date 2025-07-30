@@ -1,5 +1,5 @@
 ---
-title: Bitcoin Budeget Server
+title: Bitcoin Budget Server
 date: 2025-07-28 7:42:15 -0400
 categories: [Engineering, Servers]
 tags: [infrastructure]
