@@ -38,13 +38,13 @@ social:
   email: libretechsystems@placeq.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://x.com/MxlifeZip # change to your Twitter homepage
-    - https://github.com/SigmaEnterprise # change to your GitHub homepage
+     https://primal.net/ZeroSumFreeParity
+     https://x.com/MxlifeZip # change to your Twitter homepage
+     https://github.com/SigmaEnterprise # change to your GitHub homepage
     # Uncomment below to add more social links
-     - https://mastodon.social/@libretechsystems
-     - https://bsky.app/profile/libretechsystems.xyz
-     - https://substack.com/@libretechinfrastructure
-      
+      https://mastodon.social/@libretechsystems
+      https://bsky.app/profile/libretechsystems.xyz
+      https://substack.com/@libretechinfrastructure 
 
 # Site Verification Settings
 webmaster_verifications:
