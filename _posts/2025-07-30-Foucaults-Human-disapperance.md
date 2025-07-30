@@ -1,7 +1,7 @@
 ---
 title: Foucault's Human Disappearance
 date: 2025-07-30 1:47:21 -0400
-categories: [Power, Knowledge, Discipline, Punis]
+categories: [Power, Knowledge, Discipline, Punishment]
 tags: [Social Control]
 description: Roderick analyses Docile bodies and its ambitions in a Carceral society
 ---
