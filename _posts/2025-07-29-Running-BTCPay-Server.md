@@ -1,5 +1,5 @@
 ---
-title: Running BTCPay Server: A Complete Deployment Guide (From Scratch)
+title: Running BTCPay Server
 date: 2025-07-29 11:00:21 -0400
 categories: [Bitcoin Payments, Lunanode Hosting]
 tags: [BTCPayserver Setup]
@@ -107,9 +107,6 @@ Making BTCPay easy to install is the key to mainstream adoption. The simpler the
 
 The BTCPay roadmap is packed with features—stay tuned for upcoming articles where we’ll dive into the newest tools and integrations.
 
----
-
-👉 **Next up:** Want to secure your BTCPay instance with Tor, Docker isolation, and advanced Linux hardening? Check out the [Linux Security & Bitcoin Node Isolation Guide](#) (coming soon).
 
 ---
 
