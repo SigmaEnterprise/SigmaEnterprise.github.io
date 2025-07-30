@@ -1,3 +1,11 @@
+---
+title: Bitcoin Budeget Server
+date: 2025-07-28 7:42:15 -0400
+categories: [Engineering, Servers]
+tags: [infrastructure]
+description: A Five Part look at the aspirational stack for a Bitcoin Individual/Community
+---
+
 ## **1. Define the Stack’s Core Goals**
 
 A Bitcoin-ready stack should:

@@ -1,5 +1,9 @@
-Running a Bitcoin node or self-custody apps requires a **secure Linux server environment**. This guide provides a step-by-step hardening process using malware scanners, intrusion detection, SSH hardening, and proactive monitoring. Each section includes commands, explanations, and diagrams to visualize the flow.
-
+---
+title: Linux Hardening Checklist For Bitcoin Nodes and Nostr Relays
+date: 2025-07-28 5:17:21 -0400
+categories: [Engineering, Servers]
+tags: [hardening]
+description: Running a Bitcoin node or self-custody apps requires a **secure Linux server environment**. This guide provides a step-by-step hardening process using malware scanners, intrusion detection, SSH hardening, and proactive monitoring. Each section includes commands, explanations, and diagrams to visualize the flow.
 ---
 
 ## **1. Install Malware Scanning Tools**
