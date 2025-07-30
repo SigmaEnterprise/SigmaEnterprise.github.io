@@ -1,0 +1,58 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>Chirpy</title>
+  <subtitle>Build Taproot</subtitle>
+  <updated>2023-04-27T10:55:08+00:00</updated>
+  <author>
+    <name>Build.Taproot</name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
+  <rights> © 2023 Build.Taproot </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Welcome</title>
+    <link href="http://localhost:4000/posts/Welcome/" rel="alternate" type="text/html" title="Welcome" />
+    <published>2022-06-17T00:00:00+00:00</published>
+  
+    <updated>2022-06-17T00:00:00+00:00</updated>
+  
+    <id>http://localhost:4000/posts/Welcome/</id>
+    <content src="http://localhost:4000/posts/Welcome/" />
+    <author>
+      <name>Build.Taproot</name>
+    </author>
+
+  
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Learning to Code and Building on Bitcoin Basics
+
+Strong Men HODL
+As someone who has always been interested in technology and finance, I recently decided to try my hand at coding and explore the world of Bitcoin. I knew that learning to code would be a challenging and rewarding experience, and that building on Bitcoin would allow me to tap into the exciting world of POW, mining,lightning and con...
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+
