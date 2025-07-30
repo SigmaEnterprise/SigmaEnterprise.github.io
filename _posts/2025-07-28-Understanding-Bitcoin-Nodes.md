@@ -7,8 +7,7 @@ description: A full copy of the Bitcoin blockchain, maintaining connections with
 ---
 
 
-
-{% include embed/{youtube}.html id='{MJxEli0jqy0}' %}
+{% include embed/youtube.html id='MJxEli0jqy0' %}
 
 Functions of a Bitcoin Node:
 - Transaction and block validation
