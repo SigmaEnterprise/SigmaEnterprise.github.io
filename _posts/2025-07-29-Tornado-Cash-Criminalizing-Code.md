@@ -1,5 +1,5 @@
 ---
-title: Uncoupling Knowledge and Power
+title: Tornado Cash Criminalizing Code
 date: 2025-07-30 12:56:51 -0400
 categories: [Free Speech, Government Surveillance]
 tags: [financial privacy, tornado cash, first amendment]
