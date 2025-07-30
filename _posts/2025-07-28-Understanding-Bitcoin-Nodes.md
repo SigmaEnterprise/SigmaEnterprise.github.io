@@ -1,10 +1,11 @@
 ---
 title: Understanding Bitcoin Nodes
-date: 2025-07-29 10:17:21 +/-TTTT
+date: 2025-07-29 10:17:21 -0400
 categories: [Bitcoin, Run A Node]
-tags: [Privacy]     
-description:  A full copy of the Bitcoin blockchain, maintaining connections with other nodes, acting as a backup and verification system for the network.
+tags: [privacy]
+description: A full copy of the Bitcoin blockchain, maintaining connections with other nodes, acting as a backup and verification system for the network.
 ---
+
 
 
 {% include embed/{youtube}.html id='{MJxEli0jqy0}' %}
