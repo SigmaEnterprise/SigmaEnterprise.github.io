@@ -1,6 +1,6 @@
 ---
-title: Understanding Bitcoin Nodes
-date: 2025-07-29 10:17:21 -0400
+title: The Rush To Buy Bitcoin
+date: 2025-07-29 11:00:21 -0400
 categories: [Bitcoin Strategy, Bitcoin Holdings]
 tags: [Bitcoin as Currency]
 description: The rush to buy Bitcoin.
