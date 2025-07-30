@@ -3,7 +3,7 @@ title: Running BTCPay Server
 date: 2025-07-29 11:00:21 -0400
 categories: [Bitcoin Payments, Lunanode Hosting]
 tags: [BTCPayserver Setup]
-description: BTCPayg Guide By BTC Sessions.
+description: BTCPayserver Guide By BTC Sessions. Send Support to BTC Sessions on Nostr.
 ---
 
 {% include embed/youtube.html id='-GJr4XjRCPo' %}
