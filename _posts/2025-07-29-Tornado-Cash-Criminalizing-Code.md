@@ -1,20 +1,50 @@
 ---
-title: Criminalizing Code
+title: Uncoupling Knowledge and Power
 date: 2025-07-30 12:56:51 -0400
 categories: [Free Speech, Government Surveillance]
-tags: [financial privacy]
-description: Coding criminalized: Tornado Cash case.
+tags: [financial privacy, tornado cash, first amendment]
+description: The Tornado Cash case highlights how governments are using surveillance narratives to attack developers and undermine financial privacy.
 ---
 
+{% include embed/youtube.html id="WN5uOMTGzPc" %}
 
-{% include embed/youtube.html id='WN5uOMTGzPc' %}
+## **Criminalizing Developers for Writing Code**
 
-- The government falsely portrays Tornado Cash as a criminal enterprise, despite its developers having relinquished control over the protocol and its primary function being the protection of user financial privacy.
-- The prosecution's case is riddled with inconsistencies and misinterpretations of evidence, including misreading a quote to inflate the amount of laundered money and incorrectly characterizing Tornado Cash as a money transmitter.
-- The use of conspiracy charges allows the prosecution to circumvent proving direct involvement in money laundering, targeting the developer for simply creating and promoting the code, regardless of his lack of control over its use by third parties.
-- The government's relentless pursuit of a software developer contrasts sharply with its lenient treatment of major financial institutions that facilitate far larger sums of illicit money laundering.
-- The prosecution infringes on the developer's First Amendment rights, attempting to criminalize the creation and distribution of privacy-enhancing software, equating it to publishing a book or article.
-- The case creates a chilling effect on developers, discouraging them from creating privacy tools for fear of prosecution, even if they are not directly involved in illegal activities.
-- The government's actions are driven by a desire to maintain pervasive financial surveillance, not genuinely combatting money laundering. The real fear is losing the ability to monitor and control every financial transaction.
-- The case represents a significant shift toward increased government control over personal finances, reversing decades of implicit financial privacy.
-- A conviction would set a dangerous precedent, potentially criminalizing the development of numerous privacy tools, including VPNs and encryption software, impacting broader access to fundamental human rights.
+The U.S. government’s prosecution of Tornado Cash developers marks a dangerous turning point in the war on privacy. Instead of targeting those committing crimes, prosecutors are attempting to criminalize the very act of writing and publishing open-source software.  
+
+
+- Authorities are framing Tornado Cash as a criminal enterprise, even though its developers had long since relinquished control. Its core purpose is *user financial privacy*, not money laundering.  
+- Prosecutors misinterpreted quotes, inflated alleged amounts of “laundered” money, and mischaracterized Tornado Cash as a *money transmitter*—all to fit their narrative.  
+- By using broad conspiracy charges, the government doesn’t need to prove the developer laundered money himself. Merely writing or promoting the code is enough to face prison.  
+- Major banks routinely facilitate billions in illicit transactions but escape prosecution, while a single open-source developer is being crushed.  
+
+---
+
+### **Why This Case Matters**
+
+- Writing code is speech. Prosecutors are trying to equate publishing privacy-enhancing software with enabling crime, similar to banning the printing of books because criminals might read them.  
+- Developers everywhere are watching. If Tornado Cash is criminalized, who will dare write privacy tools like VPNs, encryption libraries, or secure messaging apps?  
+- This isn’t just about one protocol. Governments want total visibility into personal finances, reversing decades of implied financial privacy.  
+
+---
+
+### **The Precedent We Can’t Afford**
+
+A conviction would set a precedent that endangers the entire open-source ecosystem. Developers could be held criminally liable for how third parties use their software—even if they have zero control.  
+
+This is about more than Tornado Cash:  
+- Could **Bitcoin mixers** be next?  
+- What about **privacy coins** or **P2P protocols**?  
+- Could this spill over to **end-to-end encryption**, **Tor**, or **secure email clients**?  
+
+---
+
+### **Closing Thoughts**
+
+This case is not about stopping money laundering. It’s about **normalizing financial surveillance and punishing those who resist it**. If the government succeeds, the cost won’t just be a few privacy tools—it will be the loss of a fundamental human right.
+
+> *“First they came for the privacy developers, and I did not speak out…”*
+
+---
+
+💬 **What do you think? Should writing code ever be a crime?**  
