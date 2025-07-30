@@ -6,7 +6,7 @@ tags: [BTCPayserver Setup]
 description: BTCPayg Guide By BTC Sessions.
 ---
 
-{% include embed/youtube.html id='v=-GJr4XjRCPo' %}
+{% include embed/youtube.html id='-GJr4XjRCPo' %}
 
 
 - The tutorial details setting up a self-hosted, open-source Bitcoin payment processor (BTCPay Server) using Luna Node, a cloud hosting service. This involves creating a Luna Node account (payable in Bitcoin or credit card), generating API credentials, and launching the BTCPay Server instance.
