@@ -1,6 +1,6 @@
 ---
 title: Tornado Cash Criminalizing Code
-date: 2025-07-30 12:56:51 -0400
+date: 2025-07-30 2:36:51 -0400
 categories: [Free Speech, Government Surveillance]
 tags: [financial privacy, tornado cash, first amendment]
 description: The Tornado Cash case highlights how governments are using surveillance narratives to attack developers and undermine financial privacy.
