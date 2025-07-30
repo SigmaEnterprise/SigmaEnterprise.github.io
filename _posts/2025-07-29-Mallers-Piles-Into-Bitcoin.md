@@ -1,5 +1,5 @@
 ---
-title: The Rush To Buy Bitcoin
+title: Bitcoin is Inelastic to Demand Searching and Trending Towards Price Discovery
 date: 2025-07-29 11:00:21 -0400
 categories: [Bitcoin Strategy, Bitcoin Holdings]
 tags: [Bitcoin as Currency]
