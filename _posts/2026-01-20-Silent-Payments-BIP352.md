@@ -3,7 +3,7 @@ title: Silent Payments (BIP352)
 date: 2026-01-20 10:06:51 -0400
 categories: [Free Speech, Bitcoin]
 tags: [financial privacy, Bitcoin, first amendment]
-description: **Silent Payments (BIP352)**, the following explainer breaks down this innovative Bitcoin protocol.
+description: Silent Payments (BIP352), the following explainer breaks down this innovative Bitcoin protocol.
 ---
 
 ### **What are Silent Payments?**
