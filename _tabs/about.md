@@ -4,6 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
+ HEAD
 # ⚡ Welcome to Our Bitcoin Store and Blog
 
 We are a small, passionate team dedicated to providing quality Bitcoin-focused tools and accessories.  
@@ -93,3 +94,7 @@ If you're interested in any of our products, please feel free to inquire about s
 [https://w3.do/P95otzTc](https://w3.do/P95otzTc)
 
 Feel free to reach out for **collaboration opportunities, inquiries, or just to say hello! 🚀✨**
+=======
+> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+{: .prompt-tip }
+>>>>>>> v7.4.1
