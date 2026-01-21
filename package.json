@@ -1,0 +1,10 @@
+{
+  "name": "jekyll-theme-chirpy",
+  "version": "7.4.1",
+  "scripts": {
+    "build": "cross-env NODE_ENV=production node tools/js-packer.js && cross-env NODE_ENV=production node tools/pygments-packer.js"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3"
+  }
+}
